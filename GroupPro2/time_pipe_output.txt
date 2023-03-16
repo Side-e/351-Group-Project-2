@@ -1,0 +1,7 @@
+total 156
+-rwxrwxr-x 1 student student 72712 Mar 16 01:02 shared_mem
+-rwxrwxr-x 1 student student 71936 Mar 16 01:01 time_pipe
+-rw-rw-r-- 1 student student  1758 Mar 16 01:01 time_pipe.cpp
+-rw-rw-r-- 1 student student     0 Mar 16 01:05 time_pipe_output.txt
+-rw-rw-r-- 1 student student  2971 Mar 16 00:22 time_shm.cpp
+-rw-rw-r-- 1 student student   318 Mar 16 01:04 time_shm.output.txt
